@@ -32,3 +32,5 @@ while i > 0 and j > 0:
 print(''.join(result))
 
 # result.reverse()
+
+아쟌
